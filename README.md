@@ -28,20 +28,6 @@ src/
 - Another `useEffect` saves to localStorage whenever subjects change
 - `SubjectCard` gets the subject data and handler functions as props
 
-## Getting started
-
-```bash
-npm install
-npm start
-```
-
-## Deploy to GitHub Pages
-
-```bash
-npm run deploy
-```
-
-Make sure to update the `homepage` field in `package.json` with your GitHub username first.
 
 ## Tech used
 
