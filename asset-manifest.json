@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Education-planner/static/css/main.e5f1fcdd.css",
+    "main.js": "/Education-planner/static/js/main.6113e1bb.js",
+    "index.html": "/Education-planner/index.html",
+    "main.e5f1fcdd.css.map": "/Education-planner/static/css/main.e5f1fcdd.css.map",
+    "main.6113e1bb.js.map": "/Education-planner/static/js/main.6113e1bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5f1fcdd.css",
+    "static/js/main.6113e1bb.js"
+  ]
+}
